@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulceSimonna-Web", "DulceSimonna-Web\DulceSimonna-Web.csproj", "{FB3614F5-8251-4CE8-8BC7-41E85BAD8FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{4B6A5851-5FE8-4C38-82E0-26CB5B7EE9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{C017735D-C03F-4F8E-87C9-8F3B57FF257E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3614F5-8251-4CE8-8BC7-41E85BAD8FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3614F5-8251-4CE8-8BC7-41E85BAD8FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3614F5-8251-4CE8-8BC7-41E85BAD8FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3614F5-8251-4CE8-8BC7-41E85BAD8FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6A5851-5FE8-4C38-82E0-26CB5B7EE9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6A5851-5FE8-4C38-82E0-26CB5B7EE9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6A5851-5FE8-4C38-82E0-26CB5B7EE9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6A5851-5FE8-4C38-82E0-26CB5B7EE9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C017735D-C03F-4F8E-87C9-8F3B57FF257E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C017735D-C03F-4F8E-87C9-8F3B57FF257E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C017735D-C03F-4F8E-87C9-8F3B57FF257E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C017735D-C03F-4F8E-87C9-8F3B57FF257E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F8593F-F606-4546-AB23-64ADA55DE1DB}
+	EndGlobalSection
+EndGlobal
